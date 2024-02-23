@@ -23,7 +23,7 @@
 
 #### FrontEnd Technologies
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&emsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&emsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&emsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### DataBase
 
@@ -35,7 +35,7 @@
 
 ### 🌱 Learning
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&emsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![PLC](https://img.shields.io/badge/PLC-Programmable%20Logic%20Controller-green)](https://en.wikipedia.org/wiki/Programmable_logic_controller)&emsp;[![HMI](https://img.shields.io/badge/HMI-Human%20Machine%20Interface-blue)](https://en.wikipedia.org/wiki/Human%E2%80%93machine_interface)
 &emsp;[![SCADA](https://img.shields.io/badge/SCADA-Supervisory%20Control%20and%20Data%20Acquisition-orange)](https://en.wikipedia.org/wiki/SCADA)
