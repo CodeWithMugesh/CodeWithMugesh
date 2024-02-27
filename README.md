@@ -1,6 +1,6 @@
 # Hello Folks, I'm Mugesh! 👋
 
-- 🎯 Checkout my website to know more about me.
+- 🎯 Checkout my [portfolio](https://mugesh.pages.dev) to know more about me.
 - 📫 Reach me @
 
 &emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:smugesh54@gmail.com?subject=Test)&emsp;&emsp;[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/smugesh54)&emsp;&emsp;[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/1170029003667685409)
